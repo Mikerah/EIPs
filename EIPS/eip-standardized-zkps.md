@@ -1,7 +1,7 @@
 ---
 eip: <to be assigned>
 title: Standardized Zero-knowledge proofs
-author: <a Mikerah Quintyne-Collins (mikerahqc@protonmail.com) John Adler (john.adler@consensys.net)>
+author: <Mikerah Quintyne-Collins (mikerahqc@protonmail.com), John Adler (john.adler@consensys.net)>
 discussions-to: <URL>
 status: Draft
 type: <Standards Track>
